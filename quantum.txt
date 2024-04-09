@@ -1,0 +1,96 @@
+¿Qué es la computación cuántica?
+La computación cuántica es un campo multidisciplinario que aúna aspectos de ciencias de la computación, física y matemáticas y utiliza mecánicas cuánticas para resolver problemas complejos más rápido que las computadoras clásicas. El campo de la computación cuántica incluye investigación de hardware y desarrollo de aplicaciones. Las computadoras cuánticas son capaces de resolver ciertos tipos de problemas más rápido que las computadoras clásicas, ya que sacan partido de los efectos de la mecánica cuántica, como la superposición y la interferencia cuántica. Algunas aplicaciones en las que las computadoras cuánticas pueden brindar dicho impulso de velocidad son el machine learning (ML), la optimización y la simulación de sistemas físicos. Entre los casos de uso eventuales se incluyen la optimización de la cartera en finanzas o la simulación de sistemas químicos; en definitiva, la solución de problemas que actualmente no pueden abordar ni las supercomputadoras más potentes del mercado.
+
+¿Cuál es la ventaja de la computación cuántica?
+Actualmente, ninguna computadora cuántica puede realizar una tarea útil de manera más rápida, económica o eficiente que una computadora clásica. La ventaja cuántica es el umbral en el que hemos construido un sistema cuántico que puede realizar operaciones que la mejor computadora cuántica posible no puede simular en ningún tipo de tiempo razonable.
+
+¿Qué es la mecánica cuántica?
+La mecánica cuántica es el área de la física que estudia el comportamiento de las partículas en un ámbito microscópico. A niveles subatómicos, las ecuaciones que describen cómo se comportan las partículas son diferentes de las que describen el mundo macroscópico que nos rodea. Las computadoras cuánticas aprovechan estos comportamientos para realizar cálculos de una forma completamente nueva.
+
+¿Qué es un cúbit?
+Los bits cuánticos, o cúbits, están representados por partículas cuánticas. La manipulación de cúbits por dispositivos de control es el núcleo del poder de procesamiento de una computadora cuántica. Los cúbits en las computadoras cuánticas son análogos a los bits en las computadoras clásicas. En esencia, el procesador de una máquina clásica hace todo su trabajo manipulando bits. De manera similar, el procesador cuántico hace todo su trabajo procesando cúbits.
+
+¿En qué se diferencian los cúbits de los bits clásicos?
+En la computación clásica, un bit es una señal electrónica que está encendida o apagada. El valor del bit clásico puede ser uno (encendido) o cero (apagado). Sin embargo, debido a que el cúbit se basa en las leyes de la mecánica cuántica, se puede colocar en una superposición de estados.
+
+¿Cuáles son los principios de la computación cuántica?
+Una computadora cuántica funciona usando principios cuánticos. Los principios cuánticos requieren un nuevo diccionario de términos para comprenderlos por completo, términos que incluyen superposición, entrelazamiento y decoherencia. Vamos a entender estos principios a continuación.
+
+Superposición
+La superposición establece que, al igual que las ondas en la física clásica, puede agregar dos o más estados cuánticos y el resultado será otro estado cuántico válido. Por el contrario, también puede representar cada estado cuántico como una suma de dos o más estados distintos. Esta superposición de cúbits le da a las computadoras cuánticas su paralelismo inherente, permitiéndoles procesar millones de operaciones simultáneamente.
+
+Entrelazamiento
+El entrelazamiento cuántico ocurre cuando dos sistemas se vinculan tan estrechamente que el conocimiento sobre uno le brinda un conocimiento inmediato sobre el otro, sin importar cuán separados estén. Los procesadores cuánticos pueden sacar conclusiones sobre una partícula midiendo otra. Por ejemplo, pueden determinar que si un bit gira hacia arriba, el otro siempre girará hacia abajo y viceversa. El entrelazamiento cuántico permite que las computadoras cuánticas resuelvan problemas complejos más rápido.
+
+Cuando se mide un estado cuántico, la función de onda colapsa y el estado se mide como cero o como uno. En este estado conocido o determinista, el bit actúa como un bit clásico. El entrelazamiento es la capacidad de los cúbits para correlacionar su estado con otros cúbits.
+
+Decoherencia
+La decoherencia es la pérdida del estado cuántico en un bit. Los factores ambientales, como la radiación, pueden provocar el colapso del estado cuántico de los cúbits. Un gran desafío de ingeniería en la construcción de una computadora cuántica es diseñar las diversas características que intentan retrasar la decoherencia del estado, como la construcción de estructuras especiales que protegen los cúbits de los campos externos.
+
+¿Cuáles son los componentes de una computadora cuántica?
+Las computadoras cuánticas tienen hardware y software, similar a una computadora clásica.
+
+Hardware cuántico
+El hardware cuántico tiene tres componentes principales.
+
+Plano de datos cuánticos
+El plano de datos cuánticos es el núcleo de la computadora cuántica e incluye los cúbits físicos y las estructuras necesarias para mantenerlos en su lugar.
+
+Plano de control y medida
+El plano de control y medición convierte las señales digitales en señales analógicas o de control de onda. Estas señales analógicas realizan las operaciones en los cúbits en el plano de datos cuánticos.
+
+Plano del procesador de control y procesador host
+El plano del procesador de control implementa el algoritmo cuántico o secuencia de operaciones. El procesador host interactúa con el software cuántico y proporciona una señal digital o una secuencia de bits clásica al plano de control y medición.
+
+Software cuántico
+El software cuántico implementa algoritmos cuánticos únicos utilizando circuitos cuánticos. Un circuito cuántico es una rutina de computación que define una serie de operaciones cuánticas lógicas en los cúbits subyacentes. Los desarrolladores pueden usar varias herramientas y bibliotecas de desarrollo de software para codificar algoritmos cuánticos.
+
+¿Cuáles son los tipos de tecnología cuántica?
+Nadie ha mostrado la mejor manera de construir una computadora cuántica tolerante a fallas y múltiples compañías y grupos de investigación están investigando diferentes tipos de cúbits. A continuación, damos un breve ejemplo de algunas de estas tecnologías bit.
+
+Procesadores de trampas de iones basados en puertas
+Una computadora cuántica basado en puertas es un dispositivo que toma datos de entrada y los transforma de acuerdo con una operación unitaria predefinida. La operación generalmente se representa mediante un circuito cuántico y es análoga a las operaciones de puerta en la electrónica tradicional. Sin embargo, las puertas cuánticas son totalmente diferentes de las puertas electrónicas.
+
+Las computadoras cuánticas de iones atrapados implementan cúbits cuánticos mediante el uso de estados electrónicos de átomos cargados llamados iones. Los iones están confinados y suspendidos sobre la trampa microfabricada mediante campos electromagnéticos. Los sistemas basados ​​en iones atrapados aplican puertas cuánticas usando láseres para manipular el estado electrónico del ion.  Los cúbits de iones atrapados utilizan átomos que provienen de la naturaleza, en lugar de fabricarlos sintéticamente.
+
+Procesadores superconductores basados en puertas
+La superconductividad es un conjunto de propiedades físicas que puedes observar en ciertos materiales como el mercurio y el helio a temperaturas muy bajas. En estos materiales se puede observar una temperatura crítica característica por debajo de la cual la resistencia eléctrica es cero y se expulsan campos de flujo magnético. Una corriente eléctrica a través de un bucle de cable superconductor puede persistir indefinidamente sin fuente de energía.
+
+La computación cuántica superconductora es un despliegue de una computadora cuántica en circuitos electrónicos superconductores. Los cúbits superconductores se diseñan con circuitos eléctricos superconductores que funcionan a temperaturas criogénicas.
+
+Procesadores fotónicos
+Un procesador fotónico cuántico es un dispositivo que manipula la luz para realizar cálculos. Las computadoras cuánticas fotónicas utilizan fuentes de luz cuántica que emiten impulsos luminosos a presión junto con equivalentes de cúbit que corresponden a modos de un operador continuo, como posición o movimiento.
+Procesadores de átomos neutros
+La tecnología de cúbits de átomos neutros es similar a la tecnología de iones atrapados. Sin embargo, utiliza luz en lugar de fuerzas electromagnéticas para atrapar el bit y mantenerlo en su posición. Los átomos no están cargados y los circuitos pueden funcionar a temperatura ambiente
+
+Procesadores atómicos Rydberg
+Un átomo de Rydberg es un átomo agitado con uno o más electrones que, en promedio, están más alejados del núcleo. Los átomos de Rydberg tienen una serie de propiedades peculiares que incluyen una respuesta exagerada a los campos eléctricos y magnéticos y una larga vida. Cuando se usan como cúbits, ofrecen interacciones atómicas fuertes y controlables que puede ajustar seleccionando diferentes estados.
+
+Temple cuántico
+El temple cuántico utiliza un proceso físico para colocar los cúbits de un sistema cuántico en un mínimo absoluto de energía. A partir de ahí, el hardware modifica suavemente la configuración del sistema para que su panorama energético refleje el problema que debe resolverse. La ventaja de los temples cuánticos es que el número de cúbits puede ser mucho mayor que los disponibles en un sistema basado en puertas. Sin embargo, su uso está limitado a casos específicos solamente.
+
+¿Cómo utilizan las empresas la computación cuántica?
+La computación cuántica puede revolucionar las industrias. Damos algunos ejemplos de casos de uso a continuación:
+
+ML
+El machine learning (ML) es el proceso de analizar grandes cantidades de datos para ayudar a las computadoras a hacer mejores predicciones y decisiones. La investigación en computación cuántica estudia los límites físicos del procesamiento de la información y está abriendo nuevos caminos en la física fundamental. Esta investigación conduce a avances en muchos campos de la ciencia y la industria, como la química, la optimización y la simulación molecular. También es un área de creciente interés para los servicios financieros para predecir los movimientos del mercado y para la fabricación para mejorar las operaciones.
+
+Optimización
+La computación cuántica puede mejorar la investigación y el desarrollo, la optimización de la cadena de suministro y la producción. Por ejemplo, podría aplicar la computación cuántica para disminuir los costos relacionados con el proceso de fabricación y acortar los tiempos de ciclo mediante la optimización de elementos como la planificación de rutas en procesos complejos. Otra aplicación es la optimización cuántica de las carteras de préstamos para que los prestamistas puedan liberar capital, reducir las tasas de interés y mejorar sus ofertas.
+
+Simulación
+El esfuerzo computacional requerido para simular sistemas con precisión aumenta exponencialmente con la complejidad de las moléculas y los materiales de los fármacos. Incluso utilizando métodos de aproximación, las supercomputadoras actuales no pueden alcanzar el nivel de precisión que exigen estas simulaciones. La computación cuántica tiene el potencial de resolver algunos de los problemas computacionales más desafiantes que enfrenta la química, lo que permite a la comunidad científica realizar simulaciones químicas que son intratables en la actualidad. Por ejemplo, Pasqal creó su software computacional QUBEC para ejecutar simulaciones químicas. QUBEC automatiza el trabajo pesado necesario para ejecutar tareas computacionales cuánticas, desde el aprovisionamiento automático de la infraestructura informática hasta la ejecución de cálculos clásicos previos y posteriores al procesamiento y la realización de tareas de mitigación de errores.
+
+¿Cómo puede empezar con la computación cuántica?
+Si desea probar la computación cuántica, puede comenzar con un emulador de hardware cuántico en su máquina local. Los emuladores son software regular que imitan el comportamiento cuántico en una computadora clásica. Son predecibles y te permiten ver estados cuánticos. Son útiles si desea probar sus algoritmos antes de invertir en tiempo de hardware cuántico. Sin embargo, no pueden recrear un comportamiento cuántico real.
+
+También puede usar un servicio de computación cuántica en la nube para codificar en una verdadera computadora cuántica sin invertir en hardware costoso.
+
+¿Cómo puede ayudar AWS con la computación cuántica?
+Amazon Braket es un servicio de computación cuántica completamente administrado. Está diseñado para ayudar a acelerar la investigación científica y el desarrollo de software para computación cuántica. Puede usar Amazon Braket para realizar estas tareas:
+
+Trabajar con diferentes tipos de computadoras cuánticas y simuladores de circuitos usando un conjunto consistente de herramientas de desarrollo.
+Crear proyectos cuánticos en una nube fiable con controles de administración y precios sencillos para la tecnología clásica y cuántica.
+Innove con rapidez con el soporte técnico y la orientación de expertos, o bien, colabore con los consultores en el Laboratorio de soluciones cuánticas de Amazon.
+Amplíe los límites de la investigación de hardware cuántico con acceso a los dispositivos de iones atrapados, superconductores, fotónicos y de temple.
+Para comenzar a usar computación cuántica, cree una cuenta de AWS hoy mismo.
